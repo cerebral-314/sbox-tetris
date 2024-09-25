@@ -1,5 +1,5 @@
 {
-  "__guid": "74b8f2f4-ee22-45c8-add9-1a9b123691cf",
+  "__guid": "f96d5e00-14c5-4247-b3b0-6750589d6ba9",
   "GameObjects": [
     {
       "__guid": "bfc59c12-1ed2-4f91-8956-a95a315eac3c",
@@ -157,7 +157,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "1,0,0.93333,1"
+          "Tint": "1,1,1,1"
         },
         {
           "__type": "Sandbox.BoxCollider",
